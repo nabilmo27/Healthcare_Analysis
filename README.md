@@ -40,7 +40,7 @@ The original dataset was extracted from **Microsoft SQL Server** and exported as
 - **Highest Billing Conditions:** Cancer ($43.49M), Asthma ($43.41M)
 - **Top Hospital:** Smith and Sons ($477.64K)
 - **Top Insurers:** Cigna (20.51%) and Athena (20.5%)
-- **Most Used Medication:** Aspirin
+- **Most Used Medication:** penicillin
 
 ## 💡 Recommendations
 - Prioritize resources toward Cancer & Asthma management
